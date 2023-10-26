@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/13486524/how-to-run-ffmpeg-commands-in-django
+
+https://docs.python.org/3/library/subprocess.html
+
